@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.exe
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\bin\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Text Filter\obj\Debug\netcoreapp3.1\Text Filter.genruntimeconfig.cache

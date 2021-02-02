@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csprojAssemblyReference.cache

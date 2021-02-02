@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csprojAssemblyReference.cache

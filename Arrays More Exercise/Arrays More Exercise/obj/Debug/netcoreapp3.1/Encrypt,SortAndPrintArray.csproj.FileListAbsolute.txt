@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.exe
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\bin\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Arrays More Exercise\obj\Debug\netcoreapp3.1\Encrypt,SortAndPrintArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\bin\Debug\netcoreapp3.1\Order by Age.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Order by Age\obj\Debug\netcoreapp3.1\Order by Age.genruntimeconfig.cache

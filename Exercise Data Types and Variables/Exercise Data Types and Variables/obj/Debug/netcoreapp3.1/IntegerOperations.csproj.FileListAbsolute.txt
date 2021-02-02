@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

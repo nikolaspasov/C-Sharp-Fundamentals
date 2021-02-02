@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\bin\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Fancy Barcodes\obj\Debug\netcoreapp3.1\Fancy Barcodes.genruntimeconfig.cache

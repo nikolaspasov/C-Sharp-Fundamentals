@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.exe
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\bin\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Retake 9 August 2019\Final Exam Retake 9 August 2019\obj\Debug\netcoreapp3.1\Final Exam Retake 9 August 2019.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache

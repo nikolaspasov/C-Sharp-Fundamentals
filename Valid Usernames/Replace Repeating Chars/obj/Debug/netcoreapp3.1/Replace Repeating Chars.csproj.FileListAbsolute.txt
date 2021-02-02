@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.exe
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.dll
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.dll
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.csprojAssemblyReference.cache

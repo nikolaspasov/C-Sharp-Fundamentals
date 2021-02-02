@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.exe
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\bin\Debug\netcoreapp3.1\Lists Exercise.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Lists Exercise\obj\Debug\netcoreapp3.1\Lists Exercise.genruntimeconfig.cache

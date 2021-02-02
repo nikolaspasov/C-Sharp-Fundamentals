@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.exe
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\bin\Debug\netcoreapp3.1\MuOnline.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam Preparation\MuOnline\obj\Debug\netcoreapp3.1\MuOnline.genruntimeconfig.cache

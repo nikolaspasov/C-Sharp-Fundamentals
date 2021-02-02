@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\bin\Debug\netcoreapp3.1\Array Manipulator.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Array Manipulator\obj\Debug\netcoreapp3.1\Array Manipulator.genruntimeconfig.cache

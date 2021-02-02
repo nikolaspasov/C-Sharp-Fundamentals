@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.exe
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\bin\Debug\netcoreapp3.1\FloatingEquality.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FloatingEquality\obj\Debug\netcoreapp3.1\FloatingEquality.genruntimeconfig.cache

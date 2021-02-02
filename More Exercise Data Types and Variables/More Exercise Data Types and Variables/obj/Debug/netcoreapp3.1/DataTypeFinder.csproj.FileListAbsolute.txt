@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.exe
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\DataTypeFinder.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\DataTypeFinder.genruntimeconfig.cache

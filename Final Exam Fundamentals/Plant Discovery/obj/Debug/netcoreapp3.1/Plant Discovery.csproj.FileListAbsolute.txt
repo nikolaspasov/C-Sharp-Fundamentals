@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.exe
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\bin\Debug\netcoreapp3.1\Plant Discovery.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Plant Discovery\obj\Debug\netcoreapp3.1\Plant Discovery.genruntimeconfig.cache

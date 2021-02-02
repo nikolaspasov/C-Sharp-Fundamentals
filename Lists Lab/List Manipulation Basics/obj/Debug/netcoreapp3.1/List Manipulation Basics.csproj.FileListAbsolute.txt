@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.exe
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\bin\Debug\netcoreapp3.1\List Manipulation Basics.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List Manipulation Basics\obj\Debug\netcoreapp3.1\List Manipulation Basics.genruntimeconfig.cache

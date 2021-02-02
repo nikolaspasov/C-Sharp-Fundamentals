@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

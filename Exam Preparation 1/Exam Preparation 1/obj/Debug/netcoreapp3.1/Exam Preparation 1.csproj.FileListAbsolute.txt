@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\bin\Debug\netcoreapp3.1\Exam Preparation 1.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Exam Preparation 1\obj\Debug\netcoreapp3.1\Exam Preparation 1.genruntimeconfig.cache

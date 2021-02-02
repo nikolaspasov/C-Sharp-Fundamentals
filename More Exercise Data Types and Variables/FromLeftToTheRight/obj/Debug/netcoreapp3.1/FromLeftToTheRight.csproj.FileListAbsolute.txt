@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.exe
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.genruntimeconfig.cache

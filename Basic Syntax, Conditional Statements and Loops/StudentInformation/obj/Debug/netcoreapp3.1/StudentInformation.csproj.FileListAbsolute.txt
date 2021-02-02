@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\bin\Debug\netcoreapp3.1\StudentInformation.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.genruntimeconfig.cache

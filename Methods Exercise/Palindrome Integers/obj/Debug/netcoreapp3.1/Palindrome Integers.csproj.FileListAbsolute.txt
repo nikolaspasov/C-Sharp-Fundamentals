@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\bin\Debug\netcoreapp3.1\Palindrome Integers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Palindrome Integers\obj\Debug\netcoreapp3.1\Palindrome Integers.csprojAssemblyReference.cache

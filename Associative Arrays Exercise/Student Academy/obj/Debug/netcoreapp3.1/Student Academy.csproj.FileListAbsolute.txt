@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\bin\Debug\netcoreapp3.1\Student Academy.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Student Academy\obj\Debug\netcoreapp3.1\Student Academy.genruntimeconfig.cache

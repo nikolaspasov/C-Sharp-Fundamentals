@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.exe
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\Star Enigma.genruntimeconfig.cache

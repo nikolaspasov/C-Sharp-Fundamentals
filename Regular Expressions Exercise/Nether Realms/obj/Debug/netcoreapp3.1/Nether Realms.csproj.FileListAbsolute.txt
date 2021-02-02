@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.exe
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\bin\Debug\netcoreapp3.1\Nether Realms.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercise\Nether Realms\obj\Debug\netcoreapp3.1\Nether Realms.genruntimeconfig.cache

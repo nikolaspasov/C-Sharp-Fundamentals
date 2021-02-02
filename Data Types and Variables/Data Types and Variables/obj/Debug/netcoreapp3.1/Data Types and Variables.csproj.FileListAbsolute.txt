@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\bin\Debug\netcoreapp3.1\Data Types and Variables.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\Data Types and Variables\obj\Debug\netcoreapp3.1\Data Types and Variables.genruntimeconfig.cache

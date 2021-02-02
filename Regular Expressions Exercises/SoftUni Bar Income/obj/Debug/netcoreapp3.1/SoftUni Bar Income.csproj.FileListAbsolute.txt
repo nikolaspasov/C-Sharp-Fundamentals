@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.exe
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\bin\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions Exercises\SoftUni Bar Income\obj\Debug\netcoreapp3.1\SoftUni Bar Income.genruntimeconfig.cache

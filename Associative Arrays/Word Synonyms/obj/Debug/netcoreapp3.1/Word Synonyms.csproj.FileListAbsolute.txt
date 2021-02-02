@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.genruntimeconfig.cache

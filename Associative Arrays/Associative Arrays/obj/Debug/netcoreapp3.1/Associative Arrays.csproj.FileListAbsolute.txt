@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Associative Arrays.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Associative Arrays.genruntimeconfig.cache

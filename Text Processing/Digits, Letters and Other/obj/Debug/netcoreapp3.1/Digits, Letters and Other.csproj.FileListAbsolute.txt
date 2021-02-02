@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.exe
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\bin\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Digits, Letters and Other\obj\Debug\netcoreapp3.1\Digits, Letters and Other.genruntimeconfig.cache

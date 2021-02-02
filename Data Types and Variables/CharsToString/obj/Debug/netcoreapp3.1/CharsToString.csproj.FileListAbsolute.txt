@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

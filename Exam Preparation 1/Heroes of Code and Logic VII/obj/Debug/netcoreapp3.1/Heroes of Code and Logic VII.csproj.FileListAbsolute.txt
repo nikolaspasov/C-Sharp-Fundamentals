@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 1\Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Heroes of Code and Logic VII.csprojAssemblyReference.cache

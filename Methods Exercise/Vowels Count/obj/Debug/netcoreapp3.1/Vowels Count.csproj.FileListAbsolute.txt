@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\bin\Debug\netcoreapp3.1\Vowels Count.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Vowels Count\obj\Debug\netcoreapp3.1\Vowels Count.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\bin\Debug\netcoreapp3.1\Objects and Classes Lab.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Objects and Classes Lab\obj\Debug\netcoreapp3.1\Objects and Classes Lab.genruntimeconfig.cache

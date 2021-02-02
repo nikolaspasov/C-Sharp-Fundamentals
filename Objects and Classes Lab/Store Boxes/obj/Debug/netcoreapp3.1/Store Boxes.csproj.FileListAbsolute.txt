@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Lab\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.genruntimeconfig.cache

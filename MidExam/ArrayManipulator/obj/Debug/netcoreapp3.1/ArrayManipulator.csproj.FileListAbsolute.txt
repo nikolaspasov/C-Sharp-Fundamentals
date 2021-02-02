@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.exe
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.genruntimeconfig.cache

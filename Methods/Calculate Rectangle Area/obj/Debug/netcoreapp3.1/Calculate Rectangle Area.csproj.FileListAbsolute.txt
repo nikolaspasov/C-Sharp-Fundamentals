@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\bin\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculate Rectangle Area\obj\Debug\netcoreapp3.1\Calculate Rectangle Area.csprojAssemblyReference.cache

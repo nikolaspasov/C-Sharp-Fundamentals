@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\bin\Debug\netcoreapp3.1\EvenNumber.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\EvenNumber\obj\Debug\netcoreapp3.1\EvenNumber.genruntimeconfig.cache

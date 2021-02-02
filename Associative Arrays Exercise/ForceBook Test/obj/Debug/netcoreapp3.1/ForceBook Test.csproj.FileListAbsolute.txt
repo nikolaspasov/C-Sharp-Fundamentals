@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\bin\Debug\netcoreapp3.1\ForceBook Test.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\ForceBook Test\obj\Debug\netcoreapp3.1\ForceBook Test.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\bin\Debug\netcoreapp3.1\Middle Characters.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Middle Characters\obj\Debug\netcoreapp3.1\Middle Characters.genruntimeconfig.cache

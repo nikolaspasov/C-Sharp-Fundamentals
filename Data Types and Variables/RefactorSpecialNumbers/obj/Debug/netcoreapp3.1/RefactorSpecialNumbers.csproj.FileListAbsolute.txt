@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\RefactorSpecialNumbers.genruntimeconfig.cache

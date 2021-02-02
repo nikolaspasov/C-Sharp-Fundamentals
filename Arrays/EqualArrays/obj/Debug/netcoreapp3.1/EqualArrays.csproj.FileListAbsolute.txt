@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.exe
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.genruntimeconfig.cache

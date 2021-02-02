@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\bin\Debug\netcoreapp3.1\Sino The Walker.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Sino The Walker\obj\Debug\netcoreapp3.1\Sino The Walker.genruntimeconfig.cache

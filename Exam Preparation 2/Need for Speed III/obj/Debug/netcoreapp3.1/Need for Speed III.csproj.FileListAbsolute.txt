@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\bin\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exam Preparation 2\Need for Speed III\obj\Debug\netcoreapp3.1\Need for Speed III.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.genruntimeconfig.cache

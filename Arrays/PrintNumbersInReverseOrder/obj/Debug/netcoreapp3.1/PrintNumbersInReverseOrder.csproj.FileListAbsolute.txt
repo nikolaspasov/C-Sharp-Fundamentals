@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.exe
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.genruntimeconfig.cache

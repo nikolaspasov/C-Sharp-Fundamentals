@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Text Processing\Substring\obj\Debug\netcoreapp3.1\Substring.csprojAssemblyReference.cache

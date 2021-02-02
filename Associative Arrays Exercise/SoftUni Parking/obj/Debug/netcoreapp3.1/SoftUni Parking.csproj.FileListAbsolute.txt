@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUni Parking.genruntimeconfig.cache

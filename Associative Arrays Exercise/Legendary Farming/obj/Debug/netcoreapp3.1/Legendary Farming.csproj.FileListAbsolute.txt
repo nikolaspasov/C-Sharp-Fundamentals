@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\bin\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\Legendary Farming\obj\Debug\netcoreapp3.1\Legendary Farming.genruntimeconfig.cache

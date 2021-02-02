@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\netcoreapp3.1\Advertisement Message.genruntimeconfig.cache

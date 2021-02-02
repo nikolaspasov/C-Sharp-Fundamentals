@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\bin\Debug\netcoreapp3.1\Objects and Classes More Exercise.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Objects and Classes More Exercise\obj\Debug\netcoreapp3.1\Objects and Classes More Exercise.genruntimeconfig.cache

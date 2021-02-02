@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.exe
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\bin\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Lab\List of Products\obj\Debug\netcoreapp3.1\List of Products.genruntimeconfig.cache

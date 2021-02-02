@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.exe
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\bin\Debug\netcoreapp3.1\MidExam.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\MidExam\obj\Debug\netcoreapp3.1\MidExam.genruntimeconfig.cache

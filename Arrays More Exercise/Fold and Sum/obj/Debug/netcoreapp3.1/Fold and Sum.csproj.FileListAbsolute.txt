@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.exe
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays More Exercise\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.genruntimeconfig.cache

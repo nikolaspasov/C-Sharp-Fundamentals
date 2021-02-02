@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.genruntimeconfig.cache

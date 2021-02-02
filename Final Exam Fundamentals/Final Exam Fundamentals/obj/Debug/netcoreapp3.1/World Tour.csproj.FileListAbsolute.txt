@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.exe
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\bin\Debug\netcoreapp3.1\World Tour.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.dll
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Final Exam Fundamentals\Final Exam Fundamentals\obj\Debug\netcoreapp3.1\World Tour.genruntimeconfig.cache

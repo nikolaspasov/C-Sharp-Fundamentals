@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\CenturiestoMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.genruntimeconfig.cache

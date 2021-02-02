@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\MidExam\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache

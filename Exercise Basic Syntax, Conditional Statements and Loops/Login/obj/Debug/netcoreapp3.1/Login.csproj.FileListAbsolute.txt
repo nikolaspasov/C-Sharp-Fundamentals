@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache

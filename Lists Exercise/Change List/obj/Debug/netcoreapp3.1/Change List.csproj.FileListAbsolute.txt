@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.exe
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\bin\Debug\netcoreapp3.1\Change List.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.dll
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Lists Exercise\Change List\obj\Debug\netcoreapp3.1\Change List.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csprojAssemblyReference.cache

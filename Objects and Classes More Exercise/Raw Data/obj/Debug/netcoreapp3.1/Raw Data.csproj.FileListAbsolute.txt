@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\bin\Debug\netcoreapp3.1\Raw Data.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes More Exercise\Raw Data\obj\Debug\netcoreapp3.1\Raw Data.genruntimeconfig.cache

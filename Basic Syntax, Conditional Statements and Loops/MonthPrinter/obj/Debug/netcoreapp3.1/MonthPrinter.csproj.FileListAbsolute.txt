@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csprojAssemblyReference.cache

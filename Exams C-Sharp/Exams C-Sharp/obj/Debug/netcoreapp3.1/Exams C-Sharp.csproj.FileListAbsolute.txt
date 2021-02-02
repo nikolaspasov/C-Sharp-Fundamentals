@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Exams C-Sharp.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Exams C-Sharp.genruntimeconfig.cache

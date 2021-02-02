@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.exe
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable2.0.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.dll
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Basic Syntax, Conditional Statements and Loops\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable2.0.genruntimeconfig.cache

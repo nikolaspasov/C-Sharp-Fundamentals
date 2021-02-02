@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.exe
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\bin\Debug\netcoreapp3.1\SoftUni Exam Results.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.dll
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Associative Arrays Exercise\SoftUni Exam Results\obj\Debug\netcoreapp3.1\SoftUni Exam Results.genruntimeconfig.cache

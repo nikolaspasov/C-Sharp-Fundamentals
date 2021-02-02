@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Basic Syntax, Conditional Statements and Loops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

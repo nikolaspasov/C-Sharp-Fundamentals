@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.exe
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\bin\Debug\netcoreapp3.1\DecryptingMessages.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.dll
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.pdb
+C:\Users\belin\Desktop\C# Fundamentls\More Exercise Data Types and Variables\DecryptingMessages\obj\Debug\netcoreapp3.1\DecryptingMessages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\bin\Debug\netcoreapp3.1\Santa's Cookies.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exams C-Sharp\Exams C-Sharp\obj\Debug\netcoreapp3.1\Santa's Cookies.genruntimeconfig.cache

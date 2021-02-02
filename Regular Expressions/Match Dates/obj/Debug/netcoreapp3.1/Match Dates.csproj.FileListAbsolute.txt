@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.exe
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\bin\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.dll
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Regular Expressions\Match Dates\obj\Debug\netcoreapp3.1\Match Dates.genruntimeconfig.cache

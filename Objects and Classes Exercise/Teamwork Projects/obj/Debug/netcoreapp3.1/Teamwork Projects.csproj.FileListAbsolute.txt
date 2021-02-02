@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\bin\Debug\netcoreapp3.1\Teamwork Projects.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Teamwork Projects\obj\Debug\netcoreapp3.1\Teamwork Projects.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache

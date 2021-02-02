@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\bin\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Arrays\RoundingNumbers\obj\Debug\netcoreapp3.1\RoundingNumbers.genruntimeconfig.cache

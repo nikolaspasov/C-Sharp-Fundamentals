@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

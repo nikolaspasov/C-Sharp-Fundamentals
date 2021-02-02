@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Valid Usernames\Extract File\obj\Debug\netcoreapp3.1\Extract File.genruntimeconfig.cache

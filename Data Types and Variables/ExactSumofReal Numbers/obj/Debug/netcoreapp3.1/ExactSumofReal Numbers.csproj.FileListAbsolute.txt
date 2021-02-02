@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\bin\Debug\netcoreapp3.1\ExactSumofReal Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\ExactSumofReal Numbers\obj\Debug\netcoreapp3.1\ExactSumofReal Numbers.genruntimeconfig.cache

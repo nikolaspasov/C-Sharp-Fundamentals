@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.exe
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Methods Exercise\Methods Exercise\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.genruntimeconfig.cache

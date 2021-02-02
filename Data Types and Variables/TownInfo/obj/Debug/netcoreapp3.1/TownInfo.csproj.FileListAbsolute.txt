@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.exe
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\bin\Debug\netcoreapp3.1\TownInfo.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csprojAssemblyReference.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.dll
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Data Types and Variables\TownInfo\obj\Debug\netcoreapp3.1\TownInfo.genruntimeconfig.cache

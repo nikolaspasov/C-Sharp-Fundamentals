@@ -1,0 +1,13 @@
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.exe
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.deps.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.runtimeconfig.dev.json
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\bin\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfoInputs.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.AssemblyInfo.cs
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.dll
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.pdb
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.genruntimeconfig.cache
+C:\Users\belin\Desktop\C# Fundamentls\Exercise Data Types and Variables\SumDigits\obj\Debug\netcoreapp3.1\SumDigits.csprojAssemblyReference.cache
